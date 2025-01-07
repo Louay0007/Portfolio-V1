@@ -15,7 +15,7 @@ const projects = {
         {
             image: '/assets/projects/digitalplattform.png',
             label: 'Featured Project',
-            title: 'Digital Plattform',
+            title: 'Digital Platform',
             description: 'A Platform that offers everything from marketing strategy and solving technical challenges to content creation for social media',
             techs: [
                 'React Js',
