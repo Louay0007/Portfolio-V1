@@ -9,11 +9,6 @@
   <a href="http://afzalimdad9.vercel.app" target="_blank">Personal Portfolio</a>
 </p>
 
-<div align="center">
-  <img src="./public/assets/portfolio.gif" alt="Portfolio Demo" width="100%" />
-  <br>
-</div>
-
 ## 🛠 Installation and Setup Instructions
 
 1. Install dependencies
@@ -55,4 +50,3 @@ Your app is ready to be deployed!
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/afzalimdad9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
