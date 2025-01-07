@@ -4,10 +4,10 @@ const outer = {
     title1:  `G'day, I'm`,
     title2: 'Louay Rjili,',
     decrypTexts: [
-        'An Informatique Systems Engineering Student',
+        'A Computer Systems Engineering Student',
         'A Web Master Developer',
         'I build things for the web',
-        'A AI Developer',
+        'An AI Developer',
         'A Web3 Developer',
         'A Gamer',
     ],
