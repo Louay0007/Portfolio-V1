@@ -1,5 +1,5 @@
 <h1 align="center">
-    Afzal Imdad - Portfolio
+    Louay Rjili - Portfolio-V1
 </h1>
 <p align="center">
   This personal portfolio website is developed by using <a href="https://www.netlify.com/" target="_blank">Next.js</a>.
@@ -52,20 +52,6 @@ it will create `/out` directory as a build folder.
 It correctly bundles Next in production mode and optimizes the build for the best performance.
 
 Your app is ready to be deployed!
-
-## 🚨 Forking & Contributing
-
-Yes I've made this project **public** for letting others to fork and use it
-
-I would be more than happy if you give me credit at **@afzalimdad9**
-
-OpenSource contribution is something that makes internet more beautiful. So any Contributor who wants to make this website better can make contribution,which will be **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/xyz_feature`)
-3. Commit your Changes (`git commit -m 'Added some xyz_feature'`)
-4. Push to the Branch (`git push origin feature/xyz_feature`)
-5. Open a Pull Request
 
 Give a ⭐ if you like this website!
 
