@@ -5,13 +5,13 @@ const outer = {
     title2: 'Louay Rjili,',
     decrypTexts: [
         'A Computer Systems Engineering Student',
-        'A Web Master Developer',
+        'A Web Developer',
         'I build things for the web',
         'An AI Developer',
-        'A Web3 Developer',
+        'A Data Analysist',
         'A Gamer',
     ],
-    desciption: `A dedicated and disciplined Full Stack developer who love to create things for internet, having more than 4 years of field experience I've delivered projects to many happy clients over globe.`,
+    desciption: `A dedicated and disciplined Full Stack developer who love to create things for internet, having more than 2 years of field experience I've delivered projects to many happy clients over globe.`,
     button: {
         label: 'Contact me!',
         onClick: () => openLink('mailto:louay.rjilii@gmail.com?subject=Hello')
