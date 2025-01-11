@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   Check Demo:
-  <a href="http://afzalimdad9.vercel.app" target="_blank">Personal Portfolio</a>
+  <a href="https://portfolio-v1-louuuu007.vercel.app" target="_blank">Personal Portfolio</a>
 </p>
 
 ## 🛠 Installation and Setup Instructions
